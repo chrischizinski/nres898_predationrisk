@@ -1,0 +1,542 @@
+region,harvest,site,treatment,distance,trap no,unique_transect_no,unique_trap_no,habitat,model type,predation,predation_2
+West,Post-harvest,DF,Cropped,200,1,1,1,Remnant,Scented,No predation,0
+West,Post-harvest,DF,Cropped,200,1,1,1,Remnant,Unscented,No predation,0
+West,Pre-harvest,DF,Cropped,200,1,1,1,Remnant,Scented,No predation,0
+West,Pre-harvest,DF,Cropped,200,1,1,1,Remnant,Unscented,Predation,1
+West,Post-harvest,DF,Cropped,20,3,1,2,Remnant,Scented,No predation,0
+West,Post-harvest,DF,Cropped,20,3,1,2,Remnant,Unscented,No predation,0
+West,Pre-harvest,DF,Cropped,20,3,1,2,Remnant,Scented,Predation,1
+West,Pre-harvest,DF,Cropped,20,3,1,2,Remnant,Unscented,No predation,0
+West,Post-harvest,DF,Cropped,0,4,1,3,Edge,Scented,No predation,0
+West,Post-harvest,DF,Cropped,0,4,1,3,Edge,Unscented,No predation,0
+West,Pre-harvest,DF,Cropped,0,4,1,3,Edge,Scented,No predation,0
+West,Pre-harvest,DF,Cropped,0,4,1,3,Edge,Unscented,Predation,1
+West,Post-harvest,DF,Cropped,20,5,1,4,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Cropped,20,5,1,4,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Cropped,20,5,1,4,Matrix,Scented,No predation,0
+West,Pre-harvest,DF,Cropped,20,5,1,4,Matrix,Unscented,No predation,0
+West,Post-harvest,DF,Cropped,200,7,1,5,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Cropped,200,7,1,5,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Cropped,200,7,1,5,Matrix,Scented,No predation,0
+West,Pre-harvest,DF,Cropped,200,7,1,5,Matrix,Unscented,Predation,1
+West,Post-harvest,DF,Pasture,200,1,2,6,Remnant,Scented,No predation,0
+West,Post-harvest,DF,Pasture,200,1,2,6,Remnant,Unscented,No predation,0
+West,Pre-harvest,DF,Pasture,200,1,2,6,Remnant,Scented,No predation,0
+West,Pre-harvest,DF,Pasture,200,1,2,6,Remnant,Unscented,Predation,1
+West,Post-harvest,DF,Pasture,20,3,2,7,Remnant,Scented,No predation,0
+West,Post-harvest,DF,Pasture,20,3,2,7,Remnant,Unscented,No predation,0
+West,Pre-harvest,DF,Pasture,20,3,2,7,Remnant,Scented,Predation,1
+West,Pre-harvest,DF,Pasture,20,3,2,7,Remnant,Unscented,Predation,1
+West,Post-harvest,DF,Pasture,0,4,2,8,Edge,Scented,No predation,0
+West,Post-harvest,DF,Pasture,0,4,2,8,Edge,Unscented,No predation,0
+West,Pre-harvest,DF,Pasture,0,4,2,8,Edge,Scented,Predation,1
+West,Pre-harvest,DF,Pasture,0,4,2,8,Edge,Unscented,No predation,0
+West,Post-harvest,DF,Pasture,20,5,2,9,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Pasture,20,5,2,9,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Pasture,20,5,2,9,Matrix,Scented,No predation,0
+West,Pre-harvest,DF,Pasture,20,5,2,9,Matrix,Unscented,Predation,1
+West,Post-harvest,DF,Pasture,200,7,2,10,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Pasture,200,7,2,10,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Pasture,200,7,2,10,Matrix,Scented,Predation,1
+West,Pre-harvest,DF,Pasture,200,7,2,10,Matrix,Unscented,Predation,1
+West,Post-harvest,DF,Planting,200,1,3,11,Remnant,Scented,Predation,1
+West,Post-harvest,DF,Planting,200,1,3,11,Remnant,Unscented,Predation,1
+West,Pre-harvest,DF,Planting,200,1,3,11,Remnant,Scented,No predation,0
+West,Pre-harvest,DF,Planting,200,1,3,11,Remnant,Unscented,No predation,0
+West,Post-harvest,DF,Planting,20,3,3,12,Remnant,Scented,Predation,1
+West,Post-harvest,DF,Planting,20,3,3,12,Remnant,Unscented,Predation,1
+West,Pre-harvest,DF,Planting,20,3,3,12,Remnant,Scented,No predation,0
+West,Pre-harvest,DF,Planting,20,3,3,12,Remnant,Unscented,Predation,1
+West,Post-harvest,DF,Planting,0,4,3,13,Edge,Scented,No predation,0
+West,Post-harvest,DF,Planting,0,4,3,13,Edge,Unscented,No predation,0
+West,Pre-harvest,DF,Planting,0,4,3,13,Edge,Scented,Predation,1
+West,Pre-harvest,DF,Planting,0,4,3,13,Edge,Unscented,Predation,1
+West,Post-harvest,DF,Planting,20,5,3,14,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Planting,20,5,3,14,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Planting,20,5,3,14,Matrix,Scented,Predation,1
+West,Pre-harvest,DF,Planting,20,5,3,14,Matrix,Unscented,No predation,0
+West,Post-harvest,DF,Planting,200,7,3,15,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Planting,200,7,3,15,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Planting,200,7,3,15,Matrix,Scented,No predation,0
+West,Pre-harvest,DF,Planting,200,7,3,15,Matrix,Unscented,Predation,1
+West,Post-harvest,DF,Woody debris,200,1,4,6,Remnant,Scented,No predation,0
+West,Post-harvest,DF,Woody debris,200,1,4,16,Remnant,Unscented,No predation,0
+West,Pre-harvest,DF,Woody debris,200,1,4,16,Remnant,Scented,Predation,1
+West,Pre-harvest,DF,Woody debris,200,1,4,16,Remnant,Unscented,Predation,1
+West,Post-harvest,DF,Woody debris,20,3,4,17,Remnant,Scented,Predation,1
+West,Post-harvest,DF,Woody debris,20,3,4,17,Remnant,Unscented,No predation,0
+West,Pre-harvest,DF,Woody debris,20,3,4,17,Remnant,Scented,No predation,0
+West,Pre-harvest,DF,Woody debris,20,3,4,17,Remnant,Unscented,No predation,0
+West,Post-harvest,DF,Woody debris,0,4,4,18,Edge,Scented,Predation,1
+West,Post-harvest,DF,Woody debris,0,4,4,18,Edge,Unscented,No predation,0
+West,Pre-harvest,DF,Woody debris,0,4,4,18,Edge,Scented,Predation,1
+West,Pre-harvest,DF,Woody debris,0,4,4,18,Edge,Unscented,Predation,1
+West,Post-harvest,DF,Woody debris,20,5,4,19,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Woody debris,20,5,4,19,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Woody debris,20,5,4,19,Matrix,Scented,Predation,1
+West,Pre-harvest,DF,Woody debris,20,5,4,19,Matrix,Unscented,No predation,0
+West,Post-harvest,DF,Woody debris,200,7,4,20,Matrix,Scented,No predation,0
+West,Post-harvest,DF,Woody debris,200,7,4,20,Matrix,Unscented,No predation,0
+West,Pre-harvest,DF,Woody debris,200,7,4,20,Matrix,Scented,No predation,0
+West,Pre-harvest,DF,Woody debris,200,7,4,20,Matrix,Unscented,No predation,0
+East,Post-harvest,DR,Cropped,200,1,5,21,Remnant,Scented,No predation,0
+East,Post-harvest,DR,Cropped,200,1,5,21,Remnant,Unscented,Predation,1
+East,Pre-harvest,DR,Cropped,200,1,5,21,Remnant,Scented,No predation,0
+East,Pre-harvest,DR,Cropped,200,1,5,21,Remnant,Unscented,No predation,0
+East,Post-harvest,DR,Cropped,20,3,5,22,Remnant,Scented,No predation,0
+East,Post-harvest,DR,Cropped,20,3,5,22,Remnant,Unscented,No predation,0
+East,Pre-harvest,DR,Cropped,20,3,5,22,Remnant,Scented,No predation,0
+East,Pre-harvest,DR,Cropped,20,3,5,22,Remnant,Unscented,No predation,0
+East,Post-harvest,DR,Cropped,0,4,5,23,Edge,Scented,Predation,1
+East,Post-harvest,DR,Cropped,0,4,5,23,Edge,Unscented,Predation,1
+East,Pre-harvest,DR,Cropped,0,4,5,23,Edge,Scented,Predation,1
+East,Pre-harvest,DR,Cropped,0,4,5,23,Edge,Unscented,No predation,0
+East,Post-harvest,DR,Cropped,20,5,5,24,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Cropped,20,5,5,24,Matrix,Unscented,No predation,0
+East,Pre-harvest,DR,Cropped,20,5,5,24,Matrix,Scented,Predation,1
+East,Pre-harvest,DR,Cropped,20,5,5,24,Matrix,Unscented,Predation,1
+East,Post-harvest,DR,Cropped,200,7,5,25,Matrix,Scented,Predation,1
+East,Post-harvest,DR,Cropped,200,7,5,25,Matrix,Unscented,Predation,1
+East,Pre-harvest,DR,Cropped,200,7,5,25,Matrix,Scented,No predation,0
+East,Pre-harvest,DR,Cropped,200,7,5,25,Matrix,Unscented,No predation,0
+East,Post-harvest,DR,Pasture,200,1,6,26,Remnant,Scented,Predation,1
+East,Post-harvest,DR,Pasture,200,1,6,26,Remnant,Unscented,No predation,0
+East,Pre-harvest,DR,Pasture,200,1,6,26,Remnant,Scented,No predation,0
+East,Pre-harvest,DR,Pasture,200,1,6,26,Remnant,Unscented,Predation,1
+East,Post-harvest,DR,Pasture,20,3,6,27,Remnant,Scented,No predation,0
+East,Post-harvest,DR,Pasture,20,3,6,27,Remnant,Unscented,No predation,0
+East,Pre-harvest,DR,Pasture,20,3,6,27,Remnant,Scented,Predation,1
+East,Pre-harvest,DR,Pasture,20,3,6,27,Remnant,Unscented,Predation,1
+East,Post-harvest,DR,Pasture,0,4,6,28,Edge,Scented,No predation,0
+East,Post-harvest,DR,Pasture,0,4,6,28,Edge,Unscented,No predation,0
+East,Pre-harvest,DR,Pasture,0,4,6,28,Edge,Scented,No predation,0
+East,Pre-harvest,DR,Pasture,0,4,6,28,Edge,Unscented,No predation,0
+East,Post-harvest,DR,Pasture,20,5,6,29,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Pasture,20,5,6,29,Matrix,Unscented,No predation,0
+East,Pre-harvest,DR,Pasture,20,5,6,29,Matrix,Scented,Predation,1
+East,Pre-harvest,DR,Pasture,20,5,6,29,Matrix,Unscented,Predation,1
+East,Post-harvest,DR,Pasture,200,7,6,30,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Pasture,200,7,6,30,Matrix,Unscented,No predation,0
+East,Post-harvest,DR,Pasture,200,7,6,30,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Pasture,200,7,6,30,Matrix,Unscented,No predation,0
+East,Post-harvest,DR,Planting,200,1,7,31,Remnant,Scented,No predation,0
+East,Post-harvest,DR,Planting,200,1,7,31,Remnant,Unscented,No predation,0
+East,Pre-harvest,DR,Planting,200,1,7,31,Remnant,Scented,No predation,0
+East,Pre-harvest,DR,Planting,200,1,7,31,Remnant,Unscented,No predation,0
+East,Post-harvest,DR,Planting,20,3,7,32,Remnant,Scented,No predation,0
+East,Post-harvest,DR,Planting,20,3,7,32,Remnant,Unscented,No predation,0
+East,Pre-harvest,DR,Planting,20,3,7,32,Remnant,Scented,No predation,0
+East,Pre-harvest,DR,Planting,20,3,7,32,Remnant,Unscented,No predation,0
+East,Post-harvest,DR,Planting,0,4,7,33,Edge,Scented,Predation,1
+East,Post-harvest,DR,Planting,0,4,7,33,Edge,Unscented,Predation,1
+East,Pre-harvest,DR,Planting,0,4,7,33,Edge,Scented,Predation,1
+East,Pre-harvest,DR,Planting,0,4,7,33,Edge,Unscented,Predation,1
+East,Post-harvest,DR,Planting,20,5,7,34,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Planting,20,5,7,34,Matrix,Unscented,No predation,0
+East,Pre-harvest,DR,Planting,20,5,7,34,Matrix,Scented,Predation,1
+East,Pre-harvest,DR,Planting,20,5,7,34,Matrix,Unscented,Predation,1
+East,Post-harvest,DR,Planting,200,7,7,35,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Planting,200,7,7,35,Matrix,Unscented,No predation,0
+East,Pre-harvest,DR,Planting,200,7,7,35,Matrix,Scented,No predation,0
+East,Pre-harvest,DR,Planting,200,7,7,35,Matrix,Unscented,No predation,0
+East,Post-harvest,DR,Woody debris,200,1,8,36,Remnant,Scented,Predation,1
+East,Post-harvest,DR,Woody debris,200,1,8,36,Remnant,Unscented,Predation,1
+East,Pre-harvest,DR,Woody debris,200,1,8,36,Remnant,Scented,Predation,1
+East,Pre-harvest,DR,Woody debris,200,1,8,36,Remnant,Unscented,Predation,1
+East,Post-harvest,DR,Woody debris,20,3,8,37,Remnant,Scented,Predation,1
+East,Post-harvest,DR,Woody debris,20,3,8,37,Remnant,Scented,No predation,0
+East,Post-harvest,DR,Woody debris,20,3,8,37,Remnant,Unscented,Predation,1
+East,Pre-harvest,DR,Woody debris,20,3,8,37,Remnant,Scented,No predation,0
+East,Pre-harvest,DR,Woody debris,20,3,8,37,Remnant,Unscented,No predation,0
+East,Post-harvest,DR,Woody debris,0,4,8,38,Edge,Scented,Predation,1
+East,Post-harvest,DR,Woody debris,0,4,8,38,Edge,Unscented,Predation,1
+East,Pre-harvest,DR,Woody debris,0,4,8,38,Edge,Scented,Predation,1
+East,Pre-harvest,DR,Woody debris,0,4,8,38,Edge,Unscented,No predation,0
+East,Post-harvest,DR,Woody debris,20,5,8,39,Matrix,Scented,Predation,1
+East,Post-harvest,DR,Woody debris,20,5,8,39,Matrix,Unscented,Predation,1
+East,Pre-harvest,DR,Woody debris,20,5,8,39,Matrix,Scented,No predation,0
+East,Pre-harvest,DR,Woody debris,20,5,8,39,Matrix,Unscented,No predation,0
+East,Post-harvest,DR,Woody debris,200,7,8,40,Matrix,Scented,No predation,0
+East,Post-harvest,DR,Woody debris,200,7,8,40,Matrix,Unscented,No predation,0
+East,Pre-harvest,DR,Woody debris,200,7,8,40,Matrix,Scented,No predation,0
+East,Pre-harvest,DR,Woody debris,200,7,8,40,Matrix,Unscented,No predation,0
+West,Post-harvest,GH,Cropped,200,1,9,41,Remnant,Scented,No predation,0
+West,Post-harvest,GH,Cropped,200,1,9,41,Remnant,Unscented,No predation,0
+West,Pre-harvest,GH,Cropped,200,1,9,41,Remnant,Scented,No predation,0
+West,Pre-harvest,GH,Cropped,200,1,9,41,Remnant,Unscented,No predation,0
+West,Post-harvest,GH,Cropped,20,3,9,42,Remnant,Scented,No predation,0
+West,Post-harvest,GH,Cropped,20,3,9,42,Remnant,Unscented,No predation,0
+West,Pre-harvest,GH,Cropped,20,3,9,42,Remnant,Scented,Predation,1
+West,Pre-harvest,GH,Cropped,20,3,9,42,Remnant,Unscented,Predation,1
+West,Post-harvest,GH,Cropped,0,4,9,43,Edge,Scented,Predation,1
+West,Post-harvest,GH,Cropped,0,4,9,43,Edge,Unscented,Predation,1
+West,Pre-harvest,GH,Cropped,0,4,9,43,Edge,Scented,No predation,0
+West,Pre-harvest,GH,Cropped,0,4,9,43,Edge,Unscented,No predation,0
+West,Post-harvest,GH,Cropped,20,5,9,44,Matrix,Scented,No predation,0
+West,Post-harvest,GH,Cropped,20,5,9,44,Matrix,Unscented,No predation,0
+West,Pre-harvest,GH,Cropped,20,5,9,44,Matrix,Scented,No predation,0
+West,Pre-harvest,GH,Cropped,20,5,9,44,Matrix,Unscented,Predation,1
+West,Post-harvest,GH,Cropped,200,7,9,45,Matrix,Scented,No predation,0
+West,Post-harvest,GH,Cropped,200,7,9,45,Matrix,Unscented,No predation,0
+West,Pre-harvest,GH,Cropped,200,7,9,45,Matrix,Scented,No predation,0
+West,Pre-harvest,GH,Cropped,200,7,9,45,Matrix,Unscented,No predation,0
+West,Post-harvest,GH,Planting,200,1,10,46,Remnant,Scented,No predation,0
+West,Post-harvest,GH,Planting,200,1,10,46,Remnant,Unscented,No predation,0
+West,Pre-harvest,GH,Planting,200,1,10,46,Remnant,Scented,No predation,0
+West,Pre-harvest,GH,Planting,200,1,10,46,Remnant,Unscented,No predation,0
+West,Post-harvest,GH,Planting,20,3,10,47,Remnant,Scented,No predation,0
+West,Post-harvest,GH,Planting,20,3,10,47,Remnant,Unscented,No predation,0
+West,Pre-harvest,GH,Planting,20,3,10,47,Remnant,Scented,No predation,0
+West,Pre-harvest,GH,Planting,20,3,10,47,Remnant,Unscented,No predation,0
+West,Post-harvest,GH,Planting,0,4,10,48,Edge,Scented,Predation,1
+West,Post-harvest,GH,Planting,0,4,10,48,Edge,Unscented,Predation,1
+West,Pre-harvest,GH,Planting,0,4,10,48,Edge,Scented,Predation,1
+West,Pre-harvest,GH,Planting,0,4,10,48,Edge,Unscented,No predation,0
+West,Post-harvest,GH,Planting,20,5,10,49,Matrix,Scented,No predation,0
+West,Post-harvest,GH,Planting,20,5,10,49,Matrix,Unscented,No predation,0
+West,Pre-harvest,GH,Planting,20,5,10,49,Matrix,Scented,Predation,1
+West,Pre-harvest,GH,Planting,20,5,10,49,Matrix,Unscented,No predation,0
+West,Post-harvest,GH,Planting,200,7,10,50,Matrix,Scented,No predation,0
+West,Post-harvest,GH,Planting,200,7,10,50,Matrix,Unscented,No predation,0
+West,Pre-harvest,GH,Planting,200,7,10,50,Matrix,Scented,No predation,0
+West,Pre-harvest,GH,Planting,200,7,10,50,Matrix,Unscented,No predation,0
+West,Post-harvest,GH,Woody debris,200,1,11,51,Remnant,Scented,No predation,0
+West,Post-harvest,GH,Woody debris,200,1,11,51,Remnant,Unscented,No predation,0
+West,Pre-harvest,GH,Woody debris,200,1,11,51,Remnant,Scented,No predation,0
+West,Pre-harvest,GH,Woody debris,200,1,11,51,Remnant,Unscented,No predation,0
+West,Post-harvest,GH,Woody debris,20,3,11,52,Remnant,Scented,No predation,0
+West,Post-harvest,GH,Woody debris,20,3,11,52,Remnant,Unscented,No predation,0
+West,Pre-harvest,GH,Woody debris,20,3,11,52,Remnant,Scented,No predation,0
+West,Pre-harvest,GH,Woody debris,20,3,11,52,Remnant,Unscented,No predation,0
+West,Post-harvest,GH,Woody debris,0,4,11,53,Edge,Scented,No predation,0
+West,Post-harvest,GH,Woody debris,0,4,11,53,Edge,Unscented,No predation,0
+West,Pre-harvest,GH,Woody debris,0,4,11,53,Edge,Scented,Predation,1
+West,Pre-harvest,GH,Woody debris,0,4,11,53,Edge,Unscented,Predation,1
+West,Post-harvest,GH,Woody debris,20,5,11,54,Matrix,Scented,No predation,0
+West,Post-harvest,GH,Woody debris,20,5,11,54,Matrix,Unscented,No predation,0
+West,Pre-harvest,GH,Woody debris,20,5,11,54,Matrix,Scented,Predation,1
+West,Pre-harvest,GH,Woody debris,20,5,11,54,Matrix,Unscented,Predation,1
+West,Post-harvest,GH,Woody debris,200,7,11,55,Matrix,Scented,No predation,0
+West,Post-harvest,GH,Woody debris,200,7,11,55,Matrix,Unscented,No predation,0
+West,Pre-harvest,GH,Woody debris,200,7,11,55,Matrix,Scented,No predation,0
+West,Pre-harvest,GH,Woody debris,200,7,11,55,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Cropped,200,1,12,56,Remnant,Scented,Predation,1
+East,Post-harvest,IE,Cropped,200,1,12,56,Remnant,Unscented,Predation,1
+East,Pre-harvest,IE,Cropped,200,1,12,56,Remnant,Scented,Predation,1
+East,Pre-harvest,IE,Cropped,200,1,12,56,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Cropped,20,3,12,57,Remnant,Scented,No predation,0
+East,Post-harvest,IE,Cropped,20,3,12,57,Remnant,Unscented,No predation,0
+East,Pre-harvest,IE,Cropped,20,3,12,57,Remnant,Scented,No predation,0
+East,Pre-harvest,IE,Cropped,20,3,12,57,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Cropped,0,4,12,58,Edge,Scented,No predation,0
+East,Post-harvest,IE,Cropped,0,4,12,58,Edge,Unscented,Predation,1
+East,Pre-harvest,IE,Cropped,0,4,12,58,Edge,Scented,Predation,1
+East,Pre-harvest,IE,Cropped,0,4,12,58,Edge,Unscented,Predation,1
+East,Post-harvest,IE,Cropped,20,5,12,59,Matrix,Scented,Predation,1
+East,Post-harvest,IE,Cropped,20,5,12,59,Matrix,Unscented,No predation,0
+East,Pre-harvest,IE,Cropped,20,5,12,59,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Cropped,20,5,12,59,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Cropped,200,7,12,60,Matrix,Scented,No predation,0
+East,Post-harvest,IE,Cropped,200,7,12,60,Matrix,Unscented,No predation,0
+East,Pre-harvest,IE,Cropped,200,7,12,60,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Cropped,200,7,12,60,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Pasture,200,1,13,61,Remnant,Scented,Predation,1
+East,Post-harvest,IE,Pasture,200,1,13,61,Remnant,Unscented,Predation,1
+East,Pre-harvest,IE,Pasture,200,1,13,61,Remnant,Scented,No predation,0
+East,Pre-harvest,IE,Pasture,200,1,13,61,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Pasture,20,3,13,62,Remnant,Scented,No predation,0
+East,Post-harvest,IE,Pasture,20,3,13,62,Remnant,Unscented,No predation,0
+East,Pre-harvest,IE,Pasture,20,3,13,62,Remnant,Scented,No predation,0
+East,Pre-harvest,IE,Pasture,20,3,13,62,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Pasture,0,4,13,63,Edge,Scented,Predation,1
+East,Post-harvest,IE,Pasture,0,4,13,63,Edge,Unscented,No predation,0
+East,Pre-harvest,IE,Pasture,0,4,13,63,Edge,Scented,No predation,0
+East,Pre-harvest,IE,Pasture,0,4,13,63,Edge,Unscented,Predation,1
+East,Post-harvest,IE,Pasture,20,5,13,64,Matrix,Scented,Predation,1
+East,Post-harvest,IE,Pasture,20,5,13,64,Matrix,Unscented,Predation,1
+East,Pre-harvest,IE,Pasture,20,5,13,64,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Pasture,20,5,13,64,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Pasture,200,7,13,65,Matrix,Scented,Predation,1
+East,Post-harvest,IE,Pasture,200,7,13,65,Matrix,Unscented,Predation,1
+East,Pre-harvest,IE,Pasture,200,7,13,65,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Pasture,200,7,13,65,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Planting,200,1,14,66,Remnant,Scented,Predation,1
+East,Post-harvest,IE,Planting,200,1,14,66,Remnant,Unscented,Predation,1
+East,Pre-harvest,IE,Planting,200,1,14,66,Remnant,Scented,Predation,1
+East,Pre-harvest,IE,Planting,200,1,14,66,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Planting,20,3,14,67,Remnant,Scented,No predation,0
+East,Post-harvest,IE,Planting,20,3,14,67,Remnant,Unscented,No predation,0
+East,Pre-harvest,IE,Planting,20,3,14,67,Remnant,Scented,No predation,0
+East,Pre-harvest,IE,Planting,20,3,14,67,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Planting,0,4,14,68,Edge,Scented,No predation,0
+East,Post-harvest,IE,Planting,0,4,14,68,Edge,Unscented,No predation,0
+East,Pre-harvest,IE,Planting,0,4,14,68,Edge,Scented,No predation,0
+East,Pre-harvest,IE,Planting,0,4,14,68,Edge,Unscented,No predation,0
+East,Post-harvest,IE,Planting,20,5,14,69,Matrix,Scented,No predation,0
+East,Post-harvest,IE,Planting,20,5,14,69,Matrix,Unscented,No predation,0
+East,Pre-harvest,IE,Planting,20,5,14,69,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Planting,20,5,14,69,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Planting,200,7,14,70,Matrix,Scented,No predation,0
+East,Post-harvest,IE,Planting,200,7,14,70,Matrix,Unscented,No predation,0
+East,Pre-harvest,IE,Planting,200,7,14,70,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Planting,200,7,14,70,Matrix,Unscented,Predation,1
+East,Post-harvest,IE,Woody debris,200,1,15,71,Remnant,Scented,predation,1
+East,Post-harvest,IE,Woody debris,200,1,15,71,Remnant,Unscented,Predation,1
+East,Pre-harvest,IE,Woody debris,200,1,15,71,Remnant,Scented,Predation,1
+East,Pre-harvest,IE,Woody debris,200,1,15,71,Remnant,Unscented,Predation,1
+East,Post-harvest,IE,Woody debris,20,3,15,72,Remnant,Scented,No predation,0
+East,Post-harvest,IE,Woody debris,20,3,15,72,Remnant,Unscented,Predation,1
+East,Pre-harvest,IE,Woody debris,20,3,15,72,Remnant,Scented,No predation,0
+East,Pre-harvest,IE,Woody debris,20,3,15,72,Remnant,Unscented,No predation,0
+East,Post-harvest,IE,Woody debris,0,4,15,73,Edge,Scented,predation,1
+East,Post-harvest,IE,Woody debris,0,4,15,73,Edge,Unscented,predation,1
+East,Pre-harvest,IE,Woody debris,0,4,15,73,Edge,Scented,No predation,0
+East,Pre-harvest,IE,Woody debris,0,4,15,73,Edge,Unscented,No predation,0
+East,Post-harvest,IE,Woody debris,20,5,15,74,Matrix,Scented,Predation,1
+East,Post-harvest,IE,Woody debris,20,5,15,74,Matrix,Unscented,Predation,1
+East,Pre-harvest,IE,Woody debris,20,5,15,74,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Woody debris,20,5,15,74,Matrix,Unscented,No predation,0
+East,Post-harvest,IE,Woody debris,200,7,15,75,Matrix,Scented,Predation,1
+East,Post-harvest,IE,Woody debris,200,7,15,75,Matrix,Unscented,Predation,1
+East,Pre-harvest,IE,Woody debris,200,7,15,75,Matrix,Scented,No predation,0
+East,Pre-harvest,IE,Woody debris,200,7,15,75,Matrix,Unscented,Predation,1
+East,Post-harvest,RR,Cropped,200,1,16,76,Remnant,Scented,No predation,0
+East,Post-harvest,RR,Cropped,200,1,16,76,Remnant,Unscented,No predation,0
+East,Pre-harvest,RR,Cropped,200,1,16,76,Remnant,Scented,Predation,1
+East,Pre-harvest,RR,Cropped,200,1,16,76,Remnant,Unscented,Predation,1
+East,Post-harvest,RR,Cropped,20,3,16,77,Remnant,Scented,No predation,0
+East,Post-harvest,RR,Cropped,20,3,16,77,Remnant,Unscented,No predation,0
+East,Pre-harvest,RR,Cropped,20,3,16,77,Remnant,Scented,Predation,1
+East,Pre-harvest,RR,Cropped,20,3,16,77,Remnant,Unscented,Predation,1
+East,Post-harvest,RR,Cropped,0,4,16,78,Edge,Scented,Predation,1
+East,Post-harvest,RR,Cropped,0,4,16,78,Edge,Unscented,Predation,1
+East,Pre-harvest,RR,Cropped,0,4,16,78,Edge,Unscented,Predation,1
+East,Pre-harvest,RR,Cropped,0,4,16,78,Edge,Scented,Predation,1
+East,Post-harvest,RR,Cropped,20,5,16,79,Matrix,Scented,Predation,1
+East,Post-harvest,RR,Cropped,20,5,16,79,Matrix,Unscented,No predation,0
+East,Pre-harvest,RR,Cropped,20,5,16,79,Matrix,Scented,No predation,0
+East,Pre-harvest,RR,Cropped,20,5,16,79,Matrix,Unscented,No predation,0
+East,Post-harvest,RR,Cropped,200,7,16,80,Matrix,Scented,No predation,0
+East,Post-harvest,RR,Cropped,200,7,16,80,Matrix,Unscented,No predation,0
+East,Pre-harvest,RR,Cropped,200,7,16,80,Matrix,Scented,No predation,0
+East,Pre-harvest,RR,Cropped,200,7,16,80,Matrix,Unscented,No predation,0
+East,Post-harvest,RR,Pasture,200,1,17,81,Remnant,Scented,Predation,1
+East,Post-harvest,RR,Pasture,200,1,17,81,Remnant,Unscented,Predation,1
+East,Pre-harvest,RR,Pasture,200,1,17,81,Remnant,Scented,Predation,1
+East,Pre-harvest,RR,Pasture,200,1,17,81,Remnant,Unscented,Predation,1
+East,Post-harvest,RR,Pasture,20,3,17,82,Remnant,Scented,Predation,1
+East,Post-harvest,RR,Pasture,20,3,17,82,Remnant,Unscented,Predation,1
+East,Pre-harvest,RR,Pasture,20,3,17,82,Remnant,Scented,No predation,0
+East,Pre-harvest,RR,Pasture,20,3,17,82,Remnant,Unscented,No predation,0
+East,Post-harvest,RR,Pasture,0,4,17,83,Edge,Scented,Predation,1
+East,Post-harvest,RR,Pasture,0,4,17,83,Edge,Unscented,Predation,1
+East,Pre-harvest,RR,Pasture,0,4,17,83,Edge,Scented,Predation,1
+East,Pre-harvest,RR,Pasture,0,4,17,83,Edge,Unscented,No predation,0
+East,Post-harvest,RR,Pasture,20,5,17,84,Matrix,Scented,Predation,1
+East,Post-harvest,RR,Pasture,20,5,17,84,Matrix,Unscented,No predation,0
+East,Pre-harvest,RR,Pasture,20,5,17,84,Matrix,Scented,No predation,0
+East,Pre-harvest,RR,Pasture,20,5,17,84,Matrix,Unscented,No predation,0
+East,Post-harvest,RR,Pasture,200,7,17,85,Matrix,Scented,No predation,0
+East,Post-harvest,RR,Pasture,200,7,17,85,Matrix,Unscented,No predation,0
+East,Pre-harvest,RR,Pasture,200,7,17,85,Matrix,Scented,Predation,1
+East,Pre-harvest,RR,Pasture,200,7,17,85,Matrix,Unscented,No predation,0
+East,Post-harvest,RR,Planting,200,1,18,86,Remnant,Scented,No predation,0
+East,Post-harvest,RR,Planting,200,1,18,86,Remnant,Unscented,Predation,1
+East,Pre-harvest,RR,Planting,200,1,18,86,Remnant,Scented,Predation,1
+East,Pre-harvest,RR,Planting,200,1,18,86,Remnant,Unscented,Predation,1
+East,Post-harvest,RR,Planting,20,3,18,87,Remnant,Scented,No predation,0
+East,Post-harvest,RR,Planting,20,3,18,87,Remnant,Unscented,No predation,0
+East,Pre-harvest,RR,Planting,20,3,18,87,Remnant,Scented,No predation,0
+East,Pre-harvest,RR,Planting,20,3,18,87,Remnant,Unscented,No predation,0
+East,Post-harvest,RR,Planting,0,4,18,88,Edge,Scented,Predation,1
+East,Post-harvest,RR,Planting,0,4,18,88,Edge,Unscented,Predation,1
+East,Pre-harvest,RR,Planting,0,4,18,88,Edge,Scented,No predation,0
+East,Pre-harvest,RR,Planting,0,4,18,88,Edge,Unscented,No predation,0
+East,Post-harvest,RR,Planting,20,5,18,89,Matrix,Scented,Predation,1
+East,Post-harvest,RR,Planting,20,5,18,89,Matrix,Unscented,Predation,1
+East,Pre-harvest,RR,Planting,20,5,18,89,Matrix,Scented,Predation,1
+East,Pre-harvest,RR,Planting,20,5,18,89,Matrix,Unscented,Predation,1
+East,Post-harvest,RR,Planting,200,7,18,90,Matrix,Scented,No predation,0
+East,Post-harvest,RR,Planting,200,7,18,90,Matrix,Unscented,No predation,0
+East,Pre-harvest,RR,Planting,200,7,18,90,Matrix,Scented,No predation,0
+East,Pre-harvest,RR,Planting,200,7,18,90,Matrix,Unscented,No predation,0
+East,Post-harvest,RR,Woody debris,200,1,19,91,Remnant,Scented,Predation,1
+East,Post-harvest,RR,Woody debris,200,1,19,91,Remnant,Unscented,Predation,1
+East,Pre-harvest,RR,Woody debris,200,1,19,91,Remnant,Scented,No predation,0
+East,Pre-harvest,RR,Woody debris,200,1,19,91,Remnant,Unscented,No predation,0
+East,Post-harvest,RR,Woody debris,20,3,19,92,Remnant,Scented,Predation,1
+East,Post-harvest,RR,Woody debris,20,3,19,92,Remnant,Unscented,Predation,1
+East,Pre-harvest,RR,Woody debris,20,3,19,92,Remnant,Scented,No predation,0
+East,Pre-harvest,RR,Woody debris,20,3,19,92,Remnant,Unscented,No predation,0
+East,Post-harvest,RR,Woody debris,0,4,19,93,Edge,Scented,Predation,1
+East,Post-harvest,RR,Woody debris,0,4,19,93,Edge,Unscented,Predation,1
+East,Pre-harvest,RR,Woody debris,0,4,19,93,Edge,Scented,Predation,1
+East,Pre-harvest,RR,Woody debris,0,4,19,93,Edge,Unscented,Predation,1
+East,Post-harvest,RR,Woody debris,20,5,19,94,Matrix,Scented,predation,1
+East,Post-harvest,RR,Woody debris,20,5,19,94,Matrix,Unscented,predation,1
+East,Pre-harvest,RR,Woody debris,20,5,19,94,Matrix,Scented,No predation,0
+East,Pre-harvest,RR,Woody debris,20,5,19,94,Matrix,Unscented,No predation,0
+East,Post-harvest,RR,Woody debris,200,7,19,95,Matrix,Scented,Predation,1
+East,Post-harvest,RR,Woody debris,200,7,19,95,Matrix,Unscented,Predation,1
+East,Pre-harvest,RR,Woody debris,200,7,19,95,Matrix,Scented,No predation,0
+East,Pre-harvest,RR,Woody debris,200,7,19,95,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Cropped,200,1,20,96,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Cropped,200,1,20,96,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Cropped,200,1,20,96,Remnant,Scented,Predation,1
+West,Pre-harvest,SD,Cropped,200,1,20,96,Remnant,Unscented,No predation,0
+West,Post-harvest,SD,Cropped,20,3,20,97,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Cropped,20,3,20,97,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Cropped,20,3,20,97,Remnant,Scented,Predation,1
+West,Pre-harvest,SD,Cropped,20,3,20,97,Remnant,Scented,Predation,1
+West,Post-harvest,SD,Cropped,0,4,20,98,Edge,Scented,No predation,0
+West,Post-harvest,SD,Cropped,0,4,20,98,Edge,Unscented,No predation,0
+West,Pre-harvest,SD,Cropped,0,4,20,98,Edge,Scented,No predation,0
+West,Pre-harvest,SD,Cropped,0,4,20,98,Edge,Unscented,No predation,0
+West,Post-harvest,SD,Cropped,20,5,20,99,Matrix,Scented,No predation,0
+West,Post-harvest,SD,Cropped,20,5,20,99,Matrix,Unscented,No predation,0
+West,Pre-harvest,SD,Cropped,20,5,20,99,Matrix,Scented,No predation,0
+West,Pre-harvest,SD,Cropped,20,5,20,99,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Cropped,200,7,20,100,Matrix,Scented,No predation,0
+West,Post-harvest,SD,Cropped,200,7,20,100,Matrix,Unscented,No predation,0
+West,Pre-harvest,SD,Cropped,200,7,20,100,Matrix,Scented,No predation,0
+West,Pre-harvest,SD,Cropped,200,7,20,100,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Pasture,200,1,21,101,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Pasture,200,1,21,101,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Pasture,200,1,21,101,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Pasture,200,1,21,101,Remnant,Scented,Predation,1
+West,Post-harvest,SD,Pasture,20,3,21,102,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Pasture,20,3,21,102,Remnant,Unscented,predation,1
+West,Pre-harvest,SD,Pasture,20,3,21,102,Remnant,Scented,Predation,1
+West,Pre-harvest,SD,Pasture,20,3,21,102,Remnant,Unscented,No predation,0
+West,Post-harvest,SD,Pasture,0,4,21,103,Edge,Scented,No predation,0
+West,Post-harvest,SD,Pasture,0,4,21,103,Edge,Unscented,No predation,0
+West,Pre-harvest,SD,Pasture,0,4,21,103,Edge,Scented,No predation,0
+West,Pre-harvest,SD,Pasture,0,4,21,103,Edge,Unscented,No predation,0
+West,Post-harvest,SD,Pasture,20,5,21,104,Matrix,Scented,Predation,1
+West,Post-harvest,SD,Pasture,20,5,21,104,Matrix,Unscented,No predation,0
+West,Pre-harvest,SD,Pasture,20,5,21,104,Matrix,Scented,Predation,1
+West,Pre-harvest,SD,Pasture,20,5,21,104,Matrix,Scented,Predation,1
+West,Post-harvest,SD,Pasture,200,7,21,105,Matrix,Scented,No predation,0
+West,Post-harvest,SD,Pasture,200,7,21,105,Matrix,Unscented,No predation,0
+West,Pre-harvest,SD,Pasture,200,7,21,105,Matrix,Scented,No predation,0
+West,Pre-harvest,SD,Pasture,200,7,21,105,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Planting,200,1,22,106,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Planting,200,1,22,106,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Planting,200,1,22,106,Remnant,Scented,No predation,0
+West,Pre-harvest,SD,Planting,200,1,22,106,Remnant,Unscented,No predation,0
+West,Post-harvest,SD,Planting,20,3,22,107,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Planting,20,3,22,107,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Planting,20,3,22,107,Remnant,Scented,No predation,0
+West,Pre-harvest,SD,Planting,20,3,22,107,Remnant,Unscented,No predation,0
+West,Post-harvest,SD,Planting,0,4,22,108,Edge,Scented,Predation,1
+West,Post-harvest,SD,Planting,0,4,22,108,Edge,Unscented,No Predation,0
+West,Pre-harvest,SD,Planting,0,4,22,108,Edge,Scented,Predation,1
+West,Pre-harvest,SD,Planting,0,4,22,108,Edge,Unscented,Predation,1
+West,Post-harvest,SD,Planting,20,5,22,109,Matrix,Scented,No predation,0
+West,Post-harvest,SD,Planting,20,5,22,109,Matrix,Unscented,No predation,0
+West,Pre-harvest,SD,Planting,20,5,22,109,Matrix,Scented,No predation,0
+West,Pre-harvest,SD,Planting,20,5,22,109,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Planting,200,7,22,110,Matrix,Scented,Predation,1
+West,Post-harvest,SD,Planting,200,7,22,110,Matrix,Unscented,Predation,1
+West,Pre-harvest,SD,Planting,200,7,22,110,Matrix,Scented,No predation,0
+West,Pre-harvest,SD,Planting,200,7,22,110,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Woody debris,200,1,23,111,Remnant,Scented,Predation,1
+West,Post-harvest,SD,Woody debris,200,1,23,111,Remnant,Unscented,Predation,1
+West,Pre-harvest,SD,Woody debris,200,1,23,111,Remnant,Scented,Predation,1
+West,Pre-harvest,SD,Woody debris,200,1,23,111,Remnant,Unscented,No predation,0
+West,Post-harvest,SD,Woody debris,20,3,23,112,Remnant,Scented,No predation,0
+West,Post-harvest,SD,Woody debris,20,3,23,112,Remnant,Unscented,No predation,0
+West,Pre-harvest,SD,Woody debris,20,3,23,112,Remnant,Scented,No predation,0
+West,Pre-harvest,SD,Woody debris,20,3,23,112,Remnant,Unscented,No predation,0
+West,Post-harvest,SD,Woody debris,0,4,23,113,Edge,Scented,No predation,0
+West,Post-harvest,SD,Woody debris,0,4,23,113,Edge,Unscented,No predation,0
+West,Pre-harvest,SD,Woody debris,0,4,23,113,Edge,Scented,Predation,1
+West,Pre-harvest,SD,Woody debris,0,4,23,113,Edge,Unscented,Predation,1
+West,Post-harvest,SD,Woody debris,20,5,23,114,Matrix,Scented,No predation,0
+West,Post-harvest,SD,Woody debris,20,5,23,114,Matrix,Unscented,Predation,1
+West,Pre-harvest,SD,Woody debris,20,5,23,114,Matrix,Scented,No predation,0
+West,Pre-harvest,SD,Woody debris,20,5,23,114,Matrix,Unscented,No predation,0
+West,Post-harvest,SD,Woody debris,200,7,23,115,Matrix,Scented,No predation,0
+West,Post-harvest,SD,Woody debris,200,7,23,115,Matrix,Unscented,No predation,0
+West,Pre-harvest,SD,Woody debris,200,7,23,115,Matrix,Scented,Predation,1
+West,Pre-harvest,SD,Woody debris,200,7,23,115,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Cropped,200,1,24,116,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Cropped,200,1,24,116,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Cropped,200,1,24,116,Remnant,Scented,No predation,0
+East,Pre-harvest,SN,Cropped,200,1,24,116,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Cropped,20,3,24,117,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Cropped,20,3,24,117,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Cropped,20,3,24,117,Remnant,Scented,Predation,1
+East,Pre-harvest,SN,Cropped,20,3,24,117,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Cropped,0,4,24,118,Edge,Scented,No predation,0
+East,Post-harvest,SN,Cropped,0,4,24,118,Edge,Unscented,No predation,0
+East,Pre-harvest,SN,Cropped,0,4,24,118,Edge,Scented,No predation,0
+East,Pre-harvest,SN,Cropped,0,4,24,118,Edge,Unscented,No predation,0
+East,Post-harvest,SN,Cropped,20,5,24,119,Matrix,Scented,No predation,0
+East,Post-harvest,SN,Cropped,20,5,24,120,Matrix,Unscented,No predation,0
+East,Pre-harvest,SN,Cropped,20,5,24,120,Matrix,Scented,No predation,0
+East,Pre-harvest,SN,Cropped,20,5,24,120,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Cropped,200,7,24,121,Matrix,Scented,No predation,0
+East,Post-harvest,SN,Cropped,200,7,24,121,Matrix,Unscented,No predation,0
+East,Pre-harvest,SN,Cropped,200,7,24,121,Matrix,Scented,Predation,1
+East,Pre-harvest,SN,Cropped,200,7,24,121,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Pasture,200,1,25,122,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Pasture,200,1,25,122,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Pasture,200,1,25,122,Remnant,Scented,Predation,1
+East,Pre-harvest,SN,Pasture,200,1,25,122,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Pasture,20,3,25,123,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Pasture,20,3,25,123,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Pasture,20,3,25,123,Remnant,Scented,Predation,1
+East,Pre-harvest,SN,Pasture,20,3,25,123,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Pasture,0,4,25,124,Edge,Scented,No predation,0
+East,Post-harvest,SN,Pasture,0,4,25,124,Edge,Unscented,No predation,0
+East,Pre-harvest,SN,Pasture,0,4,25,124,Edge,Scented,Predation,1
+East,Pre-harvest,SN,Pasture,0,4,25,124,Edge,Unscented,Predation,1
+East,Post-harvest,SN,Pasture,20,5,25,125,Matrix,Scented,No predation,0
+East,Post-harvest,SN,Pasture,20,5,25,125,Matrix,Unscented,No predation,0
+East,Pre-harvest,SN,Pasture,20,5,25,125,Matrix,Scented,Predation,1
+East,Pre-harvest,SN,Pasture,20,5,25,125,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Pasture,200,7,25,126,Matrix,Scented,Predation,1
+East,Post-harvest,SN,Pasture,200,7,25,126,Matrix,Unscented,Predation,1
+East,Pre-harvest,SN,Pasture,200,7,25,126,Matrix,Scented,Predation,1
+East,Pre-harvest,SN,Pasture,200,7,25,126,Matrix,Unscented,Predation,1
+East,Post-harvest,SN,Planting,200,1,26,127,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Planting,200,1,26,127,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Planting,200,1,26,127,Remnant,Scented,No predation,0
+East,Pre-harvest,SN,Planting,200,1,26,127,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Planting,20,3,26,128,Remnant,Scented,Predation,1
+East,Post-harvest,SN,Planting,20,3,26,128,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Planting,20,3,26,128,Remnant,Scented,Predation,1
+East,Pre-harvest,SN,Planting,20,3,26,128,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Planting,0,4,26,129,Edge,Scented,No predation,0
+East,Post-harvest,SN,Planting,0,4,26,129,Edge,Unscented,No predation,0
+East,Pre-harvest,SN,Planting,0,4,26,129,Edge,Scented,Predation,1
+East,Pre-harvest,SN,Planting,0,4,26,129,Edge,Unscented,Predation,1
+East,Post-harvest,SN,Planting,20,5,26,130,Matrix,Scented,No predation,0
+East,Post-harvest,SN,Planting,20,5,26,130,Matrix,Unscented,Predation,1
+East,Pre-harvest,SN,Planting,20,5,26,130,Matrix,Scented,No predation,0
+East,Pre-harvest,SN,Planting,20,5,26,130,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Planting,200,7,26,131,Matrix,Scented,Predation,1
+East,Post-harvest,SN,Planting,200,7,26,131,Matrix,Unscented,Predation,1
+East,Pre-harvest,SN,Planting,200,7,26,131,Matrix,Scented,No predation,0
+East,Pre-harvest,SN,Planting,200,7,26,131,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Woody debris,200,1,27,132,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Woody debris,200,1,27,132,Remnant,Unscented,Predation,1
+East,Pre-harvest,SN,Woody debris,200,1,27,132,Remnant,Scented,No predation,0
+East,Pre-harvest,SN,Woody debris,200,1,27,132,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Woody debris,20,3,27,133,Remnant,Scented,No predation,0
+East,Post-harvest,SN,Woody debris,20,3,27,133,Remnant,Unscented,No predation,0
+East,Pre-harvest,SN,Woody debris,20,3,27,133,Remnant,Scented,No predation,0
+East,Pre-harvest,SN,Woody debris,20,3,27,133,Remnant,Unscented,No predation,0
+East,Post-harvest,SN,Woody debris,0,4,27,134,Edge,Scented,No predation,0
+East,Post-harvest,SN,Woody debris,0,4,27,134,Edge,Unscented,No predation,0
+East,Pre-harvest,SN,Woody debris,0,4,27,134,Edge,Scented,No predation,0
+East,Pre-harvest,SN,Woody debris,0,4,27,134,Edge,Unscented,No predation,0
+East,Post-harvest,SN,Woody debris,20,5,27,135,Matrix,Scented,No predation,0
+East,Post-harvest,SN,Woody debris,20,5,27,135,Matrix,Unscented,No predation,0
+East,Pre-harvest,SN,Woody debris,20,5,27,135,Matrix,Scented,No predation,0
+East,Pre-harvest,SN,Woody debris,20,5,27,135,Matrix,Unscented,No predation,0
+East,Post-harvest,SN,Woody debris,200,7,27,136,Matrix,Scented,Predation,1
+East,Post-harvest,SN,Woody debris,200,7,27,136,Matrix,Unscented,No predation,0
+East,Pre-harvest,SN,Woody debris,200,7,27,136,Matrix,Scented,Predation,1
+East,Pre-harvest,SN,Woody debris,200,7,27,136,Matrix,Unscented,Predation,1

@@ -1,0 +1,19 @@
+---
+title: "How'd they do that?  A grad seminar in reproducible research"
+subtitle: "Predation risk for reptiles is highest at remnant edges in agricultural landscapes"
+author: Your name here!
+date: today
+format:
+  html:
+    theme: flatly
+    toc: true
+    embed-resources: true
+bibliography: references.bib
+link-citations: yes
+csl: journal-of-applied-ecology.csl
+
+---
+
+## Paper
+
+The first paper we are going to start with this semester is a paper assessing the *predation risk of reptiles in four farmland types* written by @hansen2019predation
